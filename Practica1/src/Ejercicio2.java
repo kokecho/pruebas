@@ -9,7 +9,7 @@ las siguientes figuras:
 5. Área del trapecio: (base mayor + base menor)*altura/2
 6. Área del círculo: Pi * radio^2
 7. Área de la esfera: 4* Pi * radio^2
-.hola
+.
 En cada opción del menú nos pedirá los datos necesarios para el cálculo el área y la
 mostrará por pantalla.*/
 public class Ejercicio2 {
